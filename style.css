@@ -370,7 +370,7 @@ article .icon {
   border-color: rgb(163, 163, 163);
   background: rgb(250, 250, 250);
   width: fit-content !important;
-  height: fit-content;
+  height: fit-content !important;
   display: flex;
   flex-wrap: wrap;
   gap: 20px;
